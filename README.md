@@ -14,7 +14,7 @@ Here some Principal Skill (Stack !)
 
 >🖥 Node JS 
 
->🍽 .NET - C# -SQL SERVER (Actually Works ! 🍕)
+>🍽 .NET - C# -SQL SERVER (Actually Job ! 🍕)
 
 >😜 C# 
 
