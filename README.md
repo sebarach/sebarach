@@ -16,7 +16,7 @@ Here some Principal Skill (Stack !)
 
 >🍽 .NET - C# -SQL SERVER (Actually Job ! 🍕)
 
->😜 C# 
+>😜 Javascript
 
 >🖱 PHP
 
