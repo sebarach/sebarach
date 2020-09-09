@@ -27,4 +27,6 @@ Get In Touch 📱📲
 ### Linkedin [Click me !](https://www.linkedin.com/in/sebastian-sepulveda-campos-b80a041b4/) 👨‍🏫 👨‍🏫 👨‍🏫
 
 
+### My Resume [Click me !](https://sebarach.github.io/CVSEBA/) 📄📄
+
 
